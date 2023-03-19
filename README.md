@@ -1,2 +1,2 @@
 # text_splitter_bot
-@text_splitter_bot at https://web.telegram.org/
+https://t.me/text_splitter_bot
